@@ -1,4 +1,4 @@
-# Sound-Mods-Automator
+# Sound Mods Automator
 
 ## Descriptions
 This is an app for who:
