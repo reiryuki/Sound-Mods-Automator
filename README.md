@@ -5,8 +5,7 @@ This is an app for who:
 
 - Want to use a Dolby module but keep the SE Linux Enforcing (after device boot).
 
-- Want to enable Moto Waves in headset, but disable in loudspeaker automatically (not working for secured keyguard). Actually, it will triggering while headset plugged or unplugged, no matter Moto Waves is on or off. 
-
+- Want to enable Moto Waves in headset, but disable in loudspeaker automatically (Unlocking keyguard is not working for secured keyguard or delayed until unlocked by user).
 Needs root access.
 
 ## Download
