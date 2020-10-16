@@ -7,7 +7,7 @@ This is an app for who:
 
 - Want to enable Moto Waves in headset, but disable in loudspeaker automatically.
 
-Unlocking keyguard is not working for secured keyguard or delayed until unlocked by user).
+Unlocking keyguard is not working for secured keyguard or delayed until unlocked by user.
 
 Needs root access.
 
