@@ -11,7 +11,7 @@ Unlocking keyguard is only for unsecured keyguard or delayed for secured keyguar
 
 If the app is not toggling Moto Audio correctly, tap "Pointer", then adjust the X and Y coordinates.
 
-Needs root access.
+This app is need root access.
 
 ## Download
 Tap on "Releases" below
