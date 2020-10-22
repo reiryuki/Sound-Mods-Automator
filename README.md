@@ -7,11 +7,12 @@ This is an app for who:
 
 - Want to enable Moto Waves in headset, but disable in loudspeaker automatically.
 
-Unlocking keyguard is only for unsecured keyguard or delayed for secured keyguard until it's unlocked by user.
+## Attention!
+- Waves automator will be delayed for secured keyguard until it's unlocked by user!
 
-If the app is not toggling Moto Audio correctly, tap "Pointer", then adjust the X and Y coordinates.
+- If the app is not toggling Moto Audio correctly, tap "Pointer", then adjust the X and Y coordinates.
 
-This app is need root access.
+- This app is need root access.
 
 ## Download
 Tap on "Releases" below
