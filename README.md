@@ -14,5 +14,12 @@ This is an app for who:
 
 - This app is need root access.
 
+## Groups discussion
+- https://t.me/joinchat/E-On6U9cxckhIlAnoPIYpw
+- https://t.me/@modsandco
+
+## Donate
+- https://www.paypal.me/reiryuki
+
 ## Download
-Tap on "Releases" below
+- Tap on "Releases" below
