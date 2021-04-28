@@ -1,7 +1,7 @@
 # Sound Mods Automator
 
 ## Descriptions
-- Keep SELinux to enforcing after device boot
+- Keep SELinux to enforcing after device boot (universal)
 - Lock Waves Service memory to make it unkillable by system
 - Auto disable Moto Waves in internal speaker
 - Auto enable Moto Waves in headset or Bluetooth audio mode
