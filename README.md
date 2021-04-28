@@ -3,9 +3,9 @@
 ## Descriptions
 This is an app for who:
 
-- Want to use a Dolby module but keep the SE Linux Enforcing (after device boot).
+- Want to use a Dolby module but keep the SE Linux Enforcing (after device boot)
 
-- Want to enable Moto Waves in headset, but disable in loudspeaker automatically.
+- Want to enable Moto Waves in headset, but disable in loudspeaker automatically
 
 ## Attention!
 - Waves automator will be delayed for secured keyguard until it's unlocked by user
