@@ -8,17 +8,14 @@ This is an app for who:
 - Want to enable Moto Waves in headset, but disable in loudspeaker automatically.
 
 ## Attention!
-- Waves automator will be delayed for secured keyguard until it's unlocked by user!
+- Waves automator will be delayed for secured keyguard until it's unlocked by user
 
-- If the app is not toggling Moto Audio correctly, tap "Pointer", then adjust the X and Y coordinates.
+- If the app is not toggling Moto Audio correctly, tap "Pointer", then adjust the X and Y coordinates
 
-- This app is need root access.
+- This app is need root access
 
-## Telegram
-- https://t.me/audioryukimods
-- https://t.me/modsandco
-
-## Donate
+## Thanks for Donations
+- https://t.me/audioryukimods/2619
 - https://www.paypal.me/reiryuki
 
 ## Download
