@@ -7,7 +7,7 @@
 - Auto enable Moto Waves in headset or Bluetooth audio mode
 
 ## Attention!
-- Waves automator will be delayed for secured keyguard until it's unlocked by user
+- Waves disabler/enabler will be delayed for secured keyguard until it's unlocked by user
 
 - If the app is not toggling Moto Audio correctly, tap "Pointer", then adjust the X and Y coordinates
 
