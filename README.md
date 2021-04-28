@@ -1,11 +1,10 @@
 # Sound Mods Automator
 
 ## Descriptions
-This is an app for who:
-
-- Want to use a Dolby module but keep the SE Linux Enforcing (after device boot)
-
-- Want to enable Moto Waves in headset, but disable in loudspeaker automatically
+- Keep SELinux to Enforcing after device boot
+- Lock Waves Service memory to make it unkillable by system
+- Auto disable Moto Waves in internal speaker
+- Auto enable Moto Waves in headset or Bluetooth audio mode
 
 ## Attention!
 - Waves automator will be delayed for secured keyguard until it's unlocked by user
