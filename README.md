@@ -1,6 +1,7 @@
 # Sound Mods Automator
 
 ## Descriptions
+- An app powered by Tasker
 - Keeps SELinux to be enforcing after device boot (universal)
 - Auto disables Moto Waves in internal speaker
 - Auto enables Moto Waves in headset or Bluetooth audio mode
