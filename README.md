@@ -13,6 +13,8 @@
 
 - This app is need root access
 
+- Accessibility service is required for enabling/disabling in turned off and locked screen
+
 ## Thanks for Donations
 - https://t.me/androidryukimodsdiscussions/2619
 - https://www.paypal.me/reiryuki
