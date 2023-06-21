@@ -57,13 +57,13 @@
 		<name>Sound Mods</name>
 		<pids>166,154,152</pids>
 		<scenes>WASELE</scenes>
-		<tids>205,179,164,169,167,194,165,193,161,191,195,153,163,190,178,155,203,192,160,159</tids>
+		<tids>203,190,205,193,167,195,155,164,191,153,192,165,163,178,169,160,179,194,161,159</tids>
 		<Kid sr="Kid">
 			<launchID>159</launchID>
 			<pkg>com.reiryuki.soundmodsautomator</pkg>
 			<vTarg>29</vTarg>
-			<vnme>1.9</vnme>
-			<vnum>45</vnum>
+			<vnme>2.0</vnme>
+			<vnum>48</vnum>
 		</Kid>
 		<Img sr="icon" ve="2">
 			<nme>mw_hardware_headset</nme>
@@ -71,7 +71,7 @@
 	</Project>
 	<Scene sr="sceneWASELE">
 		<cdate>1602687619299</cdate>
-		<edate>1687320507632</edate>
+		<edate>1687332492442</edate>
 		<heightLand>600</heightLand>
 		<heightPort>1160</heightPort>
 		<nme>WASELE</nme>
@@ -471,7 +471,7 @@ echo $SELINUX</Str>
 	</Task>
 	<Task sr="task159">
 		<cdate>1602636777650</cdate>
-		<edate>1687326525492</edate>
+		<edate>1687332451857</edate>
 		<id>159</id>
 		<nme>Sound Mods Automator</nme>
 		<pri>100</pri>
