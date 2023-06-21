@@ -27,10 +27,10 @@
 
 ## Credits and contributors
 - https://t.me/androidryukimodsdiscussions
-- You can contribute ideas about this app here: https://t.me/androidappsportdevelopment
+- You can contribute ideas about this app/project here: https://t.me/androidappsportdevelopment
 
 ## Thanks for Donations
-- This app is always will be free but you can however show us that you are care by making a donations:
+- This app/project is always will be free but you can however show us that you are care by making a donations:
 - https://ko-fi.com/reiryuki
 - https://www.paypal.me/reiryuki
 - https://t.me/androidryukimodsdiscussions/2619
