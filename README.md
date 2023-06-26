@@ -4,7 +4,7 @@
 - An app powered by Tasker and an importable Tasker project
 - Keeps SELinux enforcing after device boot (universal)
 - Auto disables Moto Waves in internal speaker
-- Auto enables Moto Waves in headset or Bluetooth audio mode
+- Auto enables Moto Waves in headset and Bluetooth audio mode
 - Moto Waves disabler/enabler will be delayed for secured keyguard until it's unlocked by user
 
 ## Screenshot
